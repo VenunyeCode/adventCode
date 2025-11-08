@@ -12,7 +12,7 @@ public static class PuzzleData
 
         if (!File.Exists(filePath)) throw new FileNotFoundException($"Puzzle input not found: {filePath}");
 
-        var lines = File.ReadAllLines("../../../Resources/puzzle_input.txt");
+        var lines = File.ReadAllLines(Utilities.Utilities.DataPath);
 
         var reports = new List<List<int>>();
         foreach (var line in lines)
