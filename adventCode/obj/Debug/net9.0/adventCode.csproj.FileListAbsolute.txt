@@ -1,0 +1,14 @@
+/Users/kokousogbo/adventCode/adventCode/bin/Debug/net9.0/adventCode
+/Users/kokousogbo/adventCode/adventCode/bin/Debug/net9.0/adventCode.deps.json
+/Users/kokousogbo/adventCode/adventCode/bin/Debug/net9.0/adventCode.runtimeconfig.json
+/Users/kokousogbo/adventCode/adventCode/bin/Debug/net9.0/adventCode.dll
+/Users/kokousogbo/adventCode/adventCode/bin/Debug/net9.0/adventCode.pdb
+/Users/kokousogbo/adventCode/adventCode/obj/Debug/net9.0/adventCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kokousogbo/adventCode/adventCode/obj/Debug/net9.0/adventCode.AssemblyInfoInputs.cache
+/Users/kokousogbo/adventCode/adventCode/obj/Debug/net9.0/adventCode.AssemblyInfo.cs
+/Users/kokousogbo/adventCode/adventCode/obj/Debug/net9.0/adventCode.csproj.CoreCompileInputs.cache
+/Users/kokousogbo/adventCode/adventCode/obj/Debug/net9.0/adventCode.dll
+/Users/kokousogbo/adventCode/adventCode/obj/Debug/net9.0/refint/adventCode.dll
+/Users/kokousogbo/adventCode/adventCode/obj/Debug/net9.0/adventCode.pdb
+/Users/kokousogbo/adventCode/adventCode/obj/Debug/net9.0/adventCode.genruntimeconfig.cache
+/Users/kokousogbo/adventCode/adventCode/obj/Debug/net9.0/ref/adventCode.dll
