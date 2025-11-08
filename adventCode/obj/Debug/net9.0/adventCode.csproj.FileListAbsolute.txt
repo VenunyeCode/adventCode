@@ -12,3 +12,4 @@
 /Users/kokousogbo/adventCode/adventCode/obj/Debug/net9.0/adventCode.pdb
 /Users/kokousogbo/adventCode/adventCode/obj/Debug/net9.0/adventCode.genruntimeconfig.cache
 /Users/kokousogbo/adventCode/adventCode/obj/Debug/net9.0/ref/adventCode.dll
+/Users/kokousogbo/adventCode/adventCode/obj/Debug/net9.0/adventCode.sourcelink.json
