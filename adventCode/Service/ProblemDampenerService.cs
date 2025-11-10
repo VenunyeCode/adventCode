@@ -19,11 +19,4 @@ public static class ProblemDampenerService
         }
         return false;
     }
-
-    public static Report CreateWithLevels(IEnumerable<int> levels)
-    {
-        var report = new Report();
-        report.AddLevel(levels.ToList());
-        return report;
-    }
 }
